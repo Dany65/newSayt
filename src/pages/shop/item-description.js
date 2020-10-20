@@ -1,4 +1,4 @@
-const articles = [
+const items = [
     {
         name: 'book_cover_1',
         title: 'Book Cover 1',
@@ -81,4 +81,4 @@ const articles = [
     },
 ];
 
-export default articles;
+export default items;
